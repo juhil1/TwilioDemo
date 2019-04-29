@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather numDigits="1">
+        <Say>For sales, press 1. For support, press 2.</Say>
+    </Gather>
+    <Redirect>/voice</Redirect>
+</Response>
+</Response>
